@@ -1,0 +1,19 @@
+{
+  "bQuestSpoof": false,
+  "bHWIDSpoof": false,
+  "HardwareID": "",
+  "bDisableVRCLogging": false,
+  "bEarlyAdopterSpoof": true,
+  "bSupporterSpoof": true,
+  "bCanSeeAllUsersStatusSpoof": true,
+  "bCanSetStatusOfflineSpoof": false,
+  "bHasModerationPowersSpoof": false,
+  "bHasScriptingAccessSpoof": false,
+  "bHasNoPowersSpoof": false,
+  "bHasSuperPowersSpoof": false,
+  "bHasVIPAccessSpoof": false,
+  "bOfflineSpoof": false,
+  "bMasterSpoof": false,
+  "bAntiInstanceLock": true,
+  "bUsePortalEnterConfirmation": true
+}

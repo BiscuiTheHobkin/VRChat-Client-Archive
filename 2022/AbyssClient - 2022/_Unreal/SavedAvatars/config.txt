@@ -1,0 +1,9 @@
+MaxRandomAvatars: 100
+MaxLastAvatars: 500
+MaxLastFriendAvatars: 250
+MaxLastOwnAvatars: 100
+IntervalOfSavingAvatars: 300
+FavoritesName: Local_Favorites
+PrivateFavoritesName: Local_Private_Favorites
+AddFavorite: +Favorite
+RemoveFavorite: -Favorite

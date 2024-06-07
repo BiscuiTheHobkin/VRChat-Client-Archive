@@ -1,0 +1,15 @@
+{
+  "bMutualLogEnabled": false,
+  "bAntiCrashLogEnabled": false,
+  "bJoinLeaveLogEnabled": false,
+  "bModerationLogEnabled": false,
+  "bAvatarsLogEnabled": false,
+  "bUdonLogEnabled": false,
+  "bGeneralLogEnabled": false,
+  "FontSize": 50,
+  "bLoggerEnabled": false,
+  "LoggerType": "LT_None",
+  "bLogger2Enabled": false,
+  "Logger2Type": "LT_None",
+  "bConsoleLogEnabled": true
+}

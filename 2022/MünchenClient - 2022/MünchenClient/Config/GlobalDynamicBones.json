@@ -1,0 +1,70 @@
+{
+  "ConfigVersion": 1,
+  "GlobalDynamicBones": false,
+  "GlobalDynamicBonesPermissions": {
+    "Local": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "Visitor": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "NewUser": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "User": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "Known": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "Trusted": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    },
+    "Friend": {
+      "EnableDynamicBones": false,
+      "DistanceToDisable": 16.0,
+      "ColliderSizeLimit": 1.0,
+      "PerformanceMode": true,
+      "DistanceDisable": true,
+      "VisibilityCheck": true,
+      "OptimizeOnly": false
+    }
+  },
+  "GlobalDynamicBonesPermissionOverrides": {}
+}

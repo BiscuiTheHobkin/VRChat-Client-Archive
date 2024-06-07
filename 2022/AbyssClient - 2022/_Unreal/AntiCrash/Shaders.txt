@@ -1,0 +1,81 @@
+.poiyomi/• Poiyomi Toon •
+.poiyomi/Toon/Advanced/Cutout
+.poiyomi/Toon/Advanced/Opaque
+.poiyomi/Toon/Advanced/Transparent
+Custom/Invisible
+GAP/AdditiveMobileDistortionScroll
+Hidden/.poiyomi/• Poiyomi Toon •/ArmStrap-ArmStrap
+Hidden/.poiyomi/• Poiyomi Toon •/Backpack-Backpack
+Hidden/.poiyomi/• Poiyomi Toon •/Bandaid-Bandaid
+Hidden/.poiyomi/• Poiyomi Toon •/BlackHair-BlackHair
+Hidden/.poiyomi/• Poiyomi Toon •/BlackHairEar-BlackHairEar
+Hidden/.poiyomi/• Poiyomi Toon •/BlackMetal-BlackMetal
+Hidden/.poiyomi/• Poiyomi Toon •/Blush-Blush
+Hidden/.poiyomi/• Poiyomi Toon •/Body-Body
+Hidden/.poiyomi/• Poiyomi Toon •/BodyLightTattoo-BodyLightTattoo
+Hidden/.poiyomi/• Poiyomi Toon •/Bottom-Bottom
+Hidden/.poiyomi/• Poiyomi Toon •/Cap-Cap
+Hidden/.poiyomi/• Poiyomi Toon •/Ears-Ears
+Hidden/.poiyomi/• Poiyomi Toon •/EarsLight-EarsLight
+Hidden/.poiyomi/• Poiyomi Toon •/Eyes-Eyes
+Hidden/.poiyomi/• Poiyomi Toon •/Fabric-Fabric
+Hidden/.poiyomi/• Poiyomi Toon •/Hair 1-Hair 1
+Hidden/.poiyomi/• Poiyomi Toon •/Hair-Hair
+Hidden/.poiyomi/• Poiyomi Toon •/Headband-Headband
+Hidden/.poiyomi/• Poiyomi Toon •/Head-Head
+Hidden/.poiyomi/• Poiyomi Toon •/HeadLight-HeadLight
+Hidden/.poiyomi/• Poiyomi Toon •/Invisible-Invisible
+Hidden/.poiyomi/• Poiyomi Toon •/Laces-Laces
+Hidden/.poiyomi/• Poiyomi Toon •/Lamp-Lamp
+Hidden/.poiyomi/• Poiyomi Toon •/Lashes-Lashes
+Hidden/.poiyomi/• Poiyomi Toon •/Metal 4-Metal 4
+Hidden/.poiyomi/• Poiyomi Toon •/Metal-Metal
+Hidden/.poiyomi/• Poiyomi Toon •/Orange&WhiteHair-Orange&WhiteHair
+Hidden/.poiyomi/• Poiyomi Toon •/Pants-Pants
+Hidden/.poiyomi/• Poiyomi Toon •/Razor1-Razor1
+Hidden/.poiyomi/• Poiyomi Toon •/Razor2-Razor2
+Hidden/.poiyomi/• Poiyomi Toon •/Rings-Rings
+Hidden/.poiyomi/• Poiyomi Toon •/sfx_sib_body-sfx_sib_body
+Hidden/.poiyomi/• Poiyomi Toon •/sfx_sib_whiskers-sfx_sib_whiskers
+Hidden/.poiyomi/• Poiyomi Toon •/Shoe Main-Shoe Main
+Hidden/.poiyomi/• Poiyomi Toon •/ShoeBottoms-ShoeBottoms
+Hidden/.poiyomi/• Poiyomi Toon •/Shoes-Shoes
+Hidden/.poiyomi/• Poiyomi Toon •/Skirt-Skirt
+Hidden/.poiyomi/• Poiyomi Toon •/Socks-Socks
+Hidden/.poiyomi/• Poiyomi Toon •/Soul-Soul
+Hidden/.poiyomi/• Poiyomi Toon •/Sweater 1-Sweater 1
+Hidden/.poiyomi/• Poiyomi Toon •/Top-Top
+Hidden/.poiyomi/• Poiyomi Toon •/Undershirt-Undershirt
+Hidden/.poiyomi/• Poiyomi Toon •/Yankee-Yankee
+Hidden/Locked/.poiyomi/• Poiyomi Toon •/b&w-b&w
+Hidden/Locked/.poiyomi/• Poiyomi Toon •/Smokey-Smokey
+Hidden/Locked/.poiyomi/• Poiyomi Toon •/yellow eyes-yellow eyes
+Hidden/Locked/.poiyomi/★ Poiyomi Pro ★/0c0d007d462e1914b81bea6b5dcfdaa8
+Hidden/Locked/.poiyomi/★ Poiyomi Pro ★/8578a894cc661f14f9663d497439f29f
+Hidden/Locked/.poiyomi/★ Poiyomi Pro ★/b39230652997a784fbd1227012ace39e
+Hidden/Locked/.poiyomi/★ Poiyomi Pro ★/bdccf02e968305348979f955b1ec5171
+Hidden/Locked/.poiyomi/★ Poiyomi Pro ★/d6663499580403140ba44789093b1cb7
+Hirabiki/VRCLens/DepthOfField Cutout
+Hirabiki/VRCLens/Mesh Preview
+Hirabiki/VRCLens/Pivot Indicator
+Hirabiki/VRCLens/ScreenSpace Aux Cutout
+Hirabiki/VRCLens/ScreenSpace AuxFocus Cutout
+Hirabiki/VRCLens/Standard VR-Only Object
+Legacy Shaders/Particles/Additive
+Legacy Shaders/Particles/Alpha Blended Premultiply
+Legacy Shaders/Transparent/Cutout/Soft Edge Unlit
+Particles/Standard Unlit
+Shader Forge/Crystal Shader
+Skuld/Skuld's Marker
+Sonic Ether/Particles/Additive
+Standard
+Standard (Specular setup)
+UnityChanToonShader/NoOutline/ToonColor_DoubleShadeWithFeather_Transparent
+UnityChanToonShader/Toon_DoubleShadeWithFeather
+Unlit/Transparent
+Vilar/EyeTrack
+VRChat/Mobile/MatCap Lit
+VRChat/Mobile/Particles/Multiply
+VRChat/Mobile/Standard Lite
+Xiexe/Toon2.0/XSToon2.0_Outlined
+Xiexe/Toon2.0/XSToon2.0_Penetrator

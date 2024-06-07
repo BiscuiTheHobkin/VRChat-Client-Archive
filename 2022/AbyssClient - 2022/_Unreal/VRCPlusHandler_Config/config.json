@@ -1,0 +1,9 @@
+{
+  "bHideVRCPlusMiniBanner": true,
+  "bDestroyVRCPlusMiniBanner": true,
+  "bHideVRCPlusPageTab": true,
+  "bDestroyVRCPlusPageTab": true,
+  "bDestroyVRCPlusUserIconButtonHoverOver": true,
+  "bHideVRCPlusGetMoreFavorites": true,
+  "bDestroyVRCPlusGetMoreFavorites": true
+}

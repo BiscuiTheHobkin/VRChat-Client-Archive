@@ -1,0 +1,10 @@
+{
+  "GB_FeetColliders": false,
+  "GB_HandColliders": true,
+  "GB_HipBones": false,
+  "GB_ChestBones": false,
+  "GB_HeadBones": false,
+  "GB_Friends": false,
+  "GB_Spine": false,
+  "GB_line": false
+}

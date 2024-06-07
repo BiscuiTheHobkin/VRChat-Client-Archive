@@ -1,0 +1,4 @@
+Info:
+• 1 Click "Reupload"
+• 2 Click "Copy Info" & paste it to a text file
+• 3 Run Upload.exe & and paste the info in from text file. 

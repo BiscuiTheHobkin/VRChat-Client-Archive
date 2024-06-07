@@ -1,0 +1,62 @@
+[
+  {
+    "name": "pin re new",
+    "description": "pin re new",
+    "id": "avtr_98590eb7-519d-45d4-a05d-3a29db69ea4a",
+    "authorName": "maheo7659",
+    "authorId": "usr_9b212f92-7549-4a70-ac3c-5d0d9386fe2e",
+    "releaseStatus": "private",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_776a7189-e2e2-453a-8944-848cd23354d7/2/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f8436234-5d1f-4527-8eb3-6af841e91c44/1/file",
+    "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_f8436234-5d1f-4527-8eb3-6af841e91c44/1/256",
+    "platform": "standalonewindows"
+  },
+  {
+    "name": "Captain Bun",
+    "description": "Captain of the SS Boolǃ",
+    "id": "avtr_a877ef68-4b49-457b-8f8b-2c8c68730d2c",
+    "authorName": "BlueASIS",
+    "authorId": "usr_6a3af64b-09da-4f8f-9548-e1c19f2e5fae",
+    "releaseStatus": "public",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_cbe86fe8-df3e-4694-a49c-31222dbeada6/1/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_338db881-87ff-4b5f-b91f-f119e7b84dd0/1/file",
+    "thumbnailImageUrl": "https://files.vrchat.cloud/thumbnails/3016797215.thumbnail-500.png",
+    "platform": "standalonewindows"
+  },
+  {
+    "name": "mewlin 0․5",
+    "description": "fk",
+    "id": "avtr_8208b827-a6cf-4b1b-bcb9-392d64223de1",
+    "authorName": "maheo7659",
+    "authorId": "usr_9b212f92-7549-4a70-ac3c-5d0d9386fe2e",
+    "releaseStatus": "private",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_be5c954b-8e4d-44c5-a642-185002811e97/11/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_95a26405-b672-4876-af51-0711a77cea8a/2/file",
+    "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_95a26405-b672-4876-af51-0711a77cea8a/2/256",
+    "platform": "standalonewindows"
+  },
+  {
+    "name": "ii",
+    "description": "ii",
+    "id": "avtr_d92d91c4-1fc9-4afa-9bac-ce8539139cfc",
+    "authorName": "maheo7659",
+    "authorId": "usr_9b212f92-7549-4a70-ac3c-5d0d9386fe2e",
+    "releaseStatus": "private",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_f10722d4-423b-415f-a7b7-c00b739b09c3/1/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7fa5ba87-24bd-4611-80ad-1637e4de59a0/1/file",
+    "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_7fa5ba87-24bd-4611-80ad-1637e4de59a0/1/256",
+    "platform": "standalonewindows"
+  },
+  {
+    "name": "BestDoctor",
+    "description": "BestDoctor",
+    "id": "avtr_e376e021-80fc-4c08-83f0-3afd57ae7fb0",
+    "authorName": "Qyr",
+    "authorId": "usr_a47154ef-3126-49ab-9960-6ffe54081994",
+    "releaseStatus": "public",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_02f10814-c64f-45dd-b252-11bd700059e6/5/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6646446e-2f83-4bae-8229-311e7101c21e/2/file",
+    "thumbnailImageUrl": "https://d348imysud55la.cloudfront.net/thumbnails/2723626360.thumbnail-500.png",
+    "platform": "standalonewindows"
+  }
+]

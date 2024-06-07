@@ -1,0 +1,8 @@
+AntiAvatarCrash:true
+LoadingScreenColor:red
+MaxLights:5
+MaxColliders:5
+MaxMaterials:10
+MaxClothing:25
+MaxAudios:5
+MaxPolygons:250000

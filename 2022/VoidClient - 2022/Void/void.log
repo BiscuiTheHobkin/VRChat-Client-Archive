@@ -1,0 +1,49 @@
+[07-01-2023 23:48:03] [log] initializing graphical client...
+[07-01-2023 23:48:03] [log] getting required handles... [07-01-2023 23:48:03] done!
+[07-01-2023 23:48:03] [log] initializing graphical engine hooks... [07-01-2023 23:48:03] done!
+[07-01-2023 23:48:03] [log] successfully opened socket connection.
+[07-01-2023 23:48:04] [log] loading user config... [07-01-2023 23:48:04] done!
+[07-01-2023 23:48:04] [log] initializing game hooks... [07-01-2023 23:48:04] done!
+[07-01-2023 23:48:04] [log] initializing engine patches... [07-01-2023 23:48:04] done!
+[07-01-2023 23:48:04] [log] finished loading 64 total detours!
+[07-01-2023 23:48:05] [log] graphical client initialized!
+[07-01-2023 23:48:05] [log] initialization took 2.18s
+[07-01-2023 23:48:05] [log] void's default keybind is 'L'
+[07-01-2023 23:50:28] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-01-2023 23:50:30] [event 223] photon authenticated serverside
+[07-01-2023 23:51:43] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-01-2023 23:51:45] [event 223] photon authenticated serverside
+[07-01-2023 23:53:02] [notice] Shinaos joined [usr_8ba917b7-0e0e-4ec7-8bf6-fb7053e015f7]
+[07-01-2023 23:53:14] [notice] Brskt muted you
+[07-01-2023 23:53:17] [notice] zloulouz blocked you
+[07-01-2023 23:55:39] [notice] LaydieWolf left [usr_e6890a69-b3ec-488e-87d4-671292364534]
+[07-01-2023 23:56:00] [notice] -LauranSale- blocked you
+[07-01-2023 23:57:17] [notice] -LauranSale- left [usr_93af76c5-a727-4e72-bc3c-a525f12af836]
+[07-01-2023 23:58:21] [event 223] photon authenticated serverside
+[07-02-2023 00:00:22] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:00:31] [log] downloading "Slime Knight" by "Ethosaur" [https://api.vrchat.cloud/api/1/file/file_21377828-0663-4adf-ac99-6fbc69a66c35/2/file]
+[07-02-2023 00:00:32] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:00:32] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:00:40] [notice] valtar 8a48 left [usr_c9bd5138-01d4-4aef-b96d-7a8df1908a48]
+[07-02-2023 00:01:35] [notice] drrvhkk 89ee left [usr_784c4c48-71cf-4ca9-8656-4be324b689ee]
+[07-02-2023 00:01:58] [notice] ［VY］Atomix 1283 left [usr_17340a5b-0252-4aa2-8798-02f31c921283]
+[07-02-2023 00:02:50] [notice] Tommy-Ananas joined [usr_8fcccec0-4b27-405d-8787-075c0f83f8a9]
+[07-02-2023 00:03:46] [notice] chachafexa joined [usr_140721ee-42f6-4e1e-a3e6-314cc3f3a91d]
+[07-02-2023 00:04:30] [notice] LaydieWolf joined [usr_e6890a69-b3ec-488e-87d4-671292364534]
+[07-02-2023 00:06:16] [notice] Chomper309 left [usr_4f2e5158-40ad-45bd-bfed-adf533e59e33]
+[07-02-2023 00:06:17] [notice] MrWouwou joined [usr_2316a8c7-b4c9-41b9-98c3-94ef45053bab]
+[07-02-2023 00:06:23] [notice] Brskt left [usr_a11e8f88-d89b-40f7-91bb-a93467244c6d]
+[07-02-2023 00:06:24] [notice] chachafexa left [usr_140721ee-42f6-4e1e-a3e6-314cc3f3a91d]
+[07-02-2023 00:06:48] [notice] Kosakate joined [usr_5156fd08-6f6a-4d72-abf5-7a553bd24947]
+[07-02-2023 00:07:13] [notice] MrWouwou left [usr_2316a8c7-b4c9-41b9-98c3-94ef45053bab]
+[07-02-2023 00:07:54] [notice] MrWouwou joined [usr_2316a8c7-b4c9-41b9-98c3-94ef45053bab]
+[07-02-2023 00:10:33] [notice] toxic-broq left [usr_f386c860-5f4b-4131-aa56-159e325c0af5]
+[07-02-2023 00:11:24] [notice] tombeurnatore left [usr_1c8703be-4258-4700-a536-bd4e4da2f395]
+[07-02-2023 00:11:34] [notice] Brskt joined [usr_a11e8f88-d89b-40f7-91bb-a93467244c6d]
+[07-02-2023 00:12:43] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:12:46] [event 223] photon authenticated serverside
+[07-02-2023 00:16:06] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:16:08] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:16:39] [log] downloading "Area 51 Alien" by "Rocktopus" [https://api.vrchat.cloud/api/1/file/file_2b25c2d6-44e4-44e0-9c56-cbb8e5adf80b/7/file]
+[07-02-2023 00:16:43] [event 223] photon authenticated serverside
+[07-02-2023 00:20:34] [notice] CornoVR left [usr_d37cbfe1-4be5-4728-8494-5113ccdaf998]

@@ -1,0 +1,607 @@
+[
+    {
+        "name-id": 2134015755,
+        "type-id": 3345086859,
+        "value": "[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]"
+    },
+    {
+        "name-id": 4091691322,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2341115103,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1956232795,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1168867065,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1023577536,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 505305458,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3975080488,
+        "type-id": 2093750545,
+        "value": "null"
+    },
+    {
+        "name-id": 4113073310,
+        "type-id": 2093750545,
+        "value": "[\"avtr_4d658520-2ac9-4588-9307-58524689ae43\",\"avtr_19699723-c2ee-45cd-924e-a2c95382bcc2\",\"avtr_248297b5-e0f4-47ee-b924-43e42c329519\",\"avtr_23f57755-57d7-4eac-a0e0-3e2d4dbebeef\",\"avtr_adadf73e-0db8-47f4-88ae-ef0e1cdd09bf\",\"avtr_7be3f0c4-9cbd-48b1-822d-16316d29a7ad\",\"avtr_f634e0b1-1ae9-47a1-9732-06e872cbdd57\",\"avtr_ac38a4a5-6120-40e5-8760-7befc5928514\",\"avtr_a0b773ed-b159-473f-80f8-103e251aa20b\",\"avtr_b7444b2e-f28b-40d5-b0e1-a22e77c780e9\",\"avtr_63fc7149-81e8-4860-849e-517a7926951b\",\"avtr_abcb9725-56b0-467d-abbb-28a44754970e\",\"avtr_23fd8dac-6a36-4e67-a32c-77564eba0487\",\"avtr_ad3a0cd6-ea38-4e61-a351-71db8f484ded\",\"avtr_9168734d-3a00-4ad4-9743-c15bd27bd866\",\"avtr_8167291d-7098-4745-a640-e519c2523f53\",\"avtr_d3a491b2-c0c8-4323-85c6-a077544a24ba\",\"avtr_925aa7ab-4cab-48b4-8fe7-e416a651aa50\",\"avtr_6c304c0c-4e1a-4d54-833c-5f1e4559ab8c\",\"avtr_b7d765cb-97bb-4501-aa51-379f37c463d6\",\"avtr_cf4da47f-fbe4-4dee-a4b4-8474b2f027ea\",\"avtr_a2a4f2ef-a57a-4e26-8997-3c80ff6272e3\"]"
+    },
+    {
+        "name-id": 3957316949,
+        "type-id": 2093750545,
+        "value": "null"
+    },
+    {
+        "name-id": 2981427967,
+        "type-id": 2093750545,
+        "value": "null"
+    },
+    {
+        "name-id": 4129853188,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 257402059,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3926755778,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2504856172,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1766646815,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2318486355,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2585273509,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 466411952,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2370799425,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1666421373,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 4057884087,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 4244380019,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 725288619,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 4225712889,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3437007506,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 19808871,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1663757341,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 710282965,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 507768823,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2869258200,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2758300800,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 4147751987,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3324666778,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 826067494,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3584231526,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 532991149,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 576475237,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 498945073,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3768337875,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 246670930,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 4140408795,
+        "type-id": 3979666081,
+        "value": "[149,98,239,255]"
+    },
+    {
+        "name-id": 3259214002,
+        "type-id": 3979666081,
+        "value": "[156,79,239,255]"
+    },
+    {
+        "name-id": 3275991621,
+        "type-id": 3979666081,
+        "value": "[170,107,241,255]"
+    },
+    {
+        "name-id": 3242436383,
+        "type-id": 3979666081,
+        "value": "[123,80,240,255]"
+    },
+    {
+        "name-id": 328887252,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3779925633,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 68498015,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3006361772,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 4150156299,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2426126861,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 2583957824,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3458463505,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3369486366,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 3828207909,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2224266021,
+        "type-id": 2515107422,
+        "value": 69
+    },
+    {
+        "name-id": 2976132187,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 2488251817,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2114355196,
+        "type-id": 2722919607,
+        "value": "e2fdc16863f37ebc88d8642c4b160fd5d7417db5"
+    },
+    {
+        "name-id": 3914179812,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1674519192,
+        "type-id": 2515107422,
+        "value": 69
+    },
+    {
+        "name-id": 2587821614,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 2565369372,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3701960996,
+        "type-id": 2515107422,
+        "value": 144
+    },
+    {
+        "name-id": 176613304,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3440053894,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 317114520,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2084570368,
+        "type-id": 2722919607,
+        "value": "CyKa"
+    },
+    {
+        "name-id": 173501792,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2443395859,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3546492246,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 309378347,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 858110132,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1900924894,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 4026001479,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2739402005,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 641143607,
+        "type-id": 2515107422,
+        "value": 1
+    },
+    {
+        "name-id": 3914001347,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3390410015,
+        "type-id": 2797886853,
+        "value": 10.0
+    },
+    {
+        "name-id": 886603479,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 698932059,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 1115796451,
+        "type-id": 2515107422,
+        "value": 0
+    },
+    {
+        "name-id": 293834198,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1457272998,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3986167988,
+        "type-id": 2722919607,
+        "value": "wrld_6124f26b-c348-4ef7-bab8-d41fb304c420:::https://api.vrchat.cloud/api/1/file/file_b2ea2db2-6c02-4821-9ebe-53123a49dd40/71/file"
+    },
+    {
+        "name-id": 4214168249,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 1328202853,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 4214807269,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3142611566,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 218624304,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3443758876,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2915331159,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3423259898,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2662876934,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3601005590,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2791385683,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3361785514,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 168538109,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2983845535,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3963802161,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 282359896,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 2255977041,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3443354634,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 3167234777,
+        "type-id": 3365180733,
+        "value": true
+    },
+    {
+        "name-id": 1053420272,
+        "type-id": 2797886853,
+        "value": 4.0
+    },
+    {
+        "name-id": 1070197891,
+        "type-id": 2797886853,
+        "value": 2.5
+    },
+    {
+        "name-id": 2658182912,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 2754892471,
+        "type-id": 3365180733,
+        "value": false
+    },
+    {
+        "name-id": 3241681203,
+        "type-id": 2515107422,
+        "value": 112
+    },
+    {
+        "name-id": 3747029883,
+        "type-id": 2515107422,
+        "value": 113
+    },
+    {
+        "name-id": 959394420,
+        "type-id": 2515107422,
+        "value": 114
+    },
+    {
+        "name-id": 1331946515,
+        "type-id": 2515107422,
+        "value": 115
+    },
+    {
+        "name-id": 4054314502,
+        "type-id": 2515107422,
+        "value": 46
+    },
+    {
+        "name-id": 1675062236,
+        "type-id": 2515107422,
+        "value": 9
+    },
+    {
+        "name-id": 1688118456,
+        "type-id": 2515107422,
+        "value": 220
+    },
+    {
+        "name-id": 252768647,
+        "type-id": 3979666081,
+        "value": "[127,0,0,255]"
+    },
+    {
+        "name-id": 262727204,
+        "type-id": 3979666081,
+        "value": "[29,124,255,255]"
+    },
+    {
+        "name-id": 2646542980,
+        "type-id": 3979666081,
+        "value": "[42,207,91,255]"
+    },
+    {
+        "name-id": 30002118,
+        "type-id": 3979666081,
+        "value": "[255,124,66,255]"
+    },
+    {
+        "name-id": 1416774714,
+        "type-id": 3979666081,
+        "value": "[145,50,230,255]"
+    },
+    {
+        "name-id": 78122651,
+        "type-id": 3979666081,
+        "value": "[252,230,33,255]"
+    }
+]

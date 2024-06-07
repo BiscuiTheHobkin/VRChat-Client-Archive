@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tsugumi Nazar",
+    "description": "Tsugumi Nazar",
+    "id": "avtr_b117e75d-4425-4f3d-884a-5935e74a8bd7",
+    "authorName": "-Egg-",
+    "authorId": "usr_70521445-725c-4353-b4c2-afb952e2e369",
+    "releaseStatus": "public",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_af605d26-b8fb-4761-ab7d-0a7bbca84899/5/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_07da0706-72ba-4b74-893c-562c302d7f57/1/file",
+    "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_07da0706-72ba-4b74-893c-562c302d7f57/1/256",
+    "platform": "standalonewindows"
+  },
+  {
+    "name": "Dog",
+    "description": "Dog",
+    "id": "avtr_e1c3eeb6-8416-4b54-8f30-a17152510e42",
+    "authorName": "Vevvy",
+    "authorId": "usr_24a15568-506d-478c-9d42-f0a3c1d31c21",
+    "releaseStatus": "public",
+    "assetUrl": "https://api.vrchat.cloud/api/1/file/file_ec1ad801-6712-4d76-89b4-0f4c31f6f732/14/file",
+    "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f86fec44-e67d-4e55-a303-b54fb14aa652/2/file",
+    "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_f86fec44-e67d-4e55-a303-b54fb14aa652/2/256",
+    "platform": "standalonewindows"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "bFakePing": false,
+  "bFakePing_UseRandom": true,
+  "FakePing": 600,
+  "FakePing_Min": 600,
+  "FakePing_Max": 800,
+  "bFakeFPS": false,
+  "bFakeFPS_UseRandom": true,
+  "bFakeFPS_UseDependenceOfRealFPS": true,
+  "FakeFPS": 100.0,
+  "FakeFPS_Min": 100.0,
+  "FakeFPS_Max": 180.0,
+  "bBlockAllRPC": false,
+  "bAntiPhotonExploit": true,
+  "bAntiBlock": true,
+  "bForceMute": false,
+  "bAntiEarRape": true,
+  "bAntiPositionExploit": true
+}
