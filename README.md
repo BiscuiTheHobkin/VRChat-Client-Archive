@@ -1,7 +1,7 @@
 # VRChaat-Client-Archive
 An VRChat 2021-2024 Client Archive
 
-# Total client in this archive : 54
+# Total client in this archive : 66
 
 # 2024 - The Skid Year
 <li><a href="https://github.com/BiscuiTheHobkin/VRChaat-Client-Archive/tree/main/2024/ElementX%20-%202024">Element X | Skid Injector</a></li>
